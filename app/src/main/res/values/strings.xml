@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SQLite</string>
+    <string name="text_hello_TV">БАЗА ДАННЫХ</string>
+    <string name="text_start_BTN">Начать работу</string>
+    <string name="exit">Выход</string>
+    <string name="text_name_TV">Имя</string>
+    <string name="text_age_TV">Возраст</string>
+    <string name="text_position_TV">Должность</string>
+    <string name="hint_name_ET">Введите Имя</string>
+    <string name="hint_age_ET">Введите Возраст</string>
+    <string name="text_save_BTN">Сохранить данные</string>
+    <string name="text_load_BTN">Получить данные</string>
+    <string name="text_remove_BTN">Удалить данные</string>
+</resources>
